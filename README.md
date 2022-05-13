@@ -31,7 +31,7 @@ Netflify - Used to host this web app
 ## Preview
 
 ![Actual preview for my project - Desktop](./design/actual-dekstop.png)
-![Actual preview for my project - Desktop](./design/actual-mobile.png =x30vh)
+![Actual preview for my project - Mobile<img src="./design/actual-mobile.png" height="30vh">
 
 ## Deployment
 

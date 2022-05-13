@@ -22,11 +22,11 @@ according to the size of the screen.
 
 ## Technologies used
 
-HTML - Used to create the index.html file
-CSS - Used to design the webpage
-VSCode - IDE I used to create the web app
-Git - For version control
-Netflify - Used to host this web app
+- HTML - Used to create the index.html file
+- CSS - Used to design the webpage
+- VSCode - IDE I used to create the web app
+- Git - For version control
+- Netflify - Used to host this web app
 
 ## Preview
 

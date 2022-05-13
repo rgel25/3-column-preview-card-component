@@ -31,7 +31,7 @@ Netflify - Used to host this web app
 ## Preview
 
 ![Actual preview for my project - Desktop](./design/actual-dekstop.png)
-![Actual preview for my project - Desktop](./design/actual-mobile.png)
+![Actual preview for my project - Desktop](./design/actual-mobile.png =x30vh)
 
 ## Deployment
 
@@ -43,5 +43,5 @@ You may visit the deployed web app through the link below.
 
 Thank you for taking the time in checking out this repository.
 
-**Argel Miralles | Full Stack Web Developer**
+**Argel Miralles | Full Stack Web Developer**<br>
 **SIC PARVIS MAGNA**☝
